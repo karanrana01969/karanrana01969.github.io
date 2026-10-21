@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://karanrana01969.github.io/sitemap.xml
